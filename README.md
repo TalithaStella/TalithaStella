@@ -12,9 +12,6 @@ então me encantei e venho aprofundando meus conhecimentos nessa área através 
 pessoais.
 * Procuro me aprimorar como profissional de dados, por isso busco por uma empresa onde eu possa 
 aprender e evoluir profissionalmente.
-* Meu perfil pessoal conta com fácil adaptabilidade e resiliência, sempre disposta a sair da 
-minha zona de conforto. Aprendo coisas novas com rapidez e minha capacidade de me comunicar 
-efetivamente me faz construir relacionamentos interpessoais com pessoas de diferentes perfis.
 <br>
 <hr>
 
