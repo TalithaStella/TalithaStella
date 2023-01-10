@@ -51,13 +51,12 @@ efetivamente me faz construir relacionamentos interpessoais com pessoas de difer
 
 <br><br>
 
-![Talitha Stella GitHub stats](https://github-readme-stats.vercel.app/api?username=TalithaStella&show_icons=true&bg_color=00000000)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TalithaStella&layout=compact&bg_color=00000000)](https://github.com/TalithaStella/github-readme-stats)
-
+<div>
+<a href="https://github.com/TalithaStella">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TalithaStella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalithaStella&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <hr>
 <br>
 🤔 Sou sempre receptiva a dicas, sugestões, apontamentos e críticas. <br>
-
-
-
