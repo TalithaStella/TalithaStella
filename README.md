@@ -1,3 +1,4 @@
+
  ## Bem vindo ao meu perfil! :star2:
  
 <br>
@@ -6,7 +7,7 @@
 </div>
 <br>
 
-* Meu nome é Talitha, com H, mas o Github corrige errado 😄.
+* Meu nome é Talitha, com H, mas as vezes o Github corrige errado 😄.
 * Sou Biomédica e conheci o mercado de Dados quando comecei a pós-graduação em Bioinformática, desde 
 então me encantei e venho aprofundando meus conhecimentos nessa área através de cursos e aplicando em projetos 
 pessoais.
@@ -50,12 +51,10 @@ aprender e evoluir profissionalmente.
 
 <br><br>
 
-<div>
+<p align="center">
 <a href="https://github.com/TalithaStella">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TalithaStella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalithaStella&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TalithaStella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TalithaStella&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
 
-<hr>
-<br>
-🤔 Sou sempre receptiva a dicas, sugestões, apontamentos e críticas. <br>
