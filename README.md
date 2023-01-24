@@ -7,7 +7,6 @@
 </div>
 <br>
 
-* Meu nome é Talitha, com H, mas as vezes o Github corrige errado 😄.
 * Sou Biomédica e conheci o mercado de Dados quando comecei a pós-graduação em Bioinformática, desde 
 então me encantei e venho aprofundando meus conhecimentos nessa área através de cursos e aplicando em projetos 
 pessoais.
