@@ -12,6 +12,7 @@ então me encantei e venho aprofundando meus conhecimentos nessa área através 
 pessoais.
 * Procuro me aprimorar como profissional de dados, por isso busco por uma empresa onde eu possa 
 aprender e evoluir profissionalmente.
+* Veja meu portfólio de projetos <a href = "https://talithastella.github.io/portfolio_projetos/">clicando aqui!</a>
 <br>
 <hr>
 
@@ -44,10 +45,11 @@ aprender e evoluir profissionalmente.
 <hr>
 <br>
 
-> 🔭 **Principais projetos:**
+> 🔭 **PORTFÓLIO**
 > 
-> Venho participando de eventos e cursos de Power BI, o resultado desses aprendizados podem ser visualizados em: [Projetos](https://github.com/TalithaStella/PROJETOS)
+><H2>Meu protfólio de projeto esta em construção mas já pode ser visualizado em https://talithastella.github.io/portfolio_projetos/</H2>
 
+<br><hr><br>
 <br><br>
 
 <p align="center">
