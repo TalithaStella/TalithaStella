@@ -8,8 +8,9 @@
 <br>
 
 * Sou Biomédica e conheci o mercado de Dados quando comecei a pós-graduação em Bioinformática, desde 
-então me encantei e venho aprofundando meus conhecimentos nessa área através de cursos e aplicando em projetos 
+então me encantei e venho aprofundando meus conhecimentos na área de Ciência de Dados através de cursos e aplicando em projetos 
 pessoais.
+* Tudo que aprendo procuro aplicar na prática, executando projetos por mim mesma para assimilar os conhecimentos adquiridos afim de conseguir replicá-los no mercado de trabalho. 
 * Procuro me aprimorar como profissional de dados, por isso busco por uma empresa onde eu possa 
 aprender e evoluir profissionalmente.
 * Veja meu portfólio de projetos <a href = "https://talithastella.github.io/portfolio_projetos/">clicando aqui!</a>
@@ -46,9 +47,11 @@ aprender e evoluir profissionalmente.
 <hr>
 <br>
 
-> 🔭 **PORTFÓLIO**
+> <H2>🔭 Projetos</H2>
 > 
-><H2>Meu protfólio de projeto esta em construção mas já pode ser visualizado em https://talithastella.github.io/portfolio_projetos/</H2>
+>Projeto PESSOAL: [FomeZero-Zomato](https://github.com/TalithaStella/fomezero_zomato)
+>
+>Projeto de estudos:[Curry-Company](https://github.com/TalithaStella/Curry_Company)
 
 <br><hr><br>
 <br><br>
